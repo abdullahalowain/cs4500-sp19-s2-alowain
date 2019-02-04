@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Mon Feb 04 06:33:44 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-b849-1764-000000284a18 
+on database directory memory:/home/abdul/Documents/workspace-sts-3.9.7.RELEASE/cs4500-sp19s1-alowain/testdb with class loader sun.misc.Launcher$AppClassLoader@b079dc06 
+Loaded from file:/home/abdul/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=IBM Corporation
+java.runtime.version=8.0.5.22 - pxa6480sr5fp22-20180919_01(SR5 FP22)
+java.fullversion=8.0.5.22 - pxa6480sr5fp22-20180919_01(SR5 FP22)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20180915_397057 (JIT enabled, AOT enabled)
+OpenJ9   - 6c152c2
+OMR      - 15647c3
+IBM      - d734883
+user.dir=/home/abdul/Documents/workspace-sts-3.9.7.RELEASE/cs4500-sp19s1-alowain
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-20-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
